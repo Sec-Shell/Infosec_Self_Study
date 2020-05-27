@@ -1,5 +1,8 @@
 RFCs 
 
+
+###RFCs for common technologies###
+
 Classless Inter-Domain Routing (CIDR): an Address Assignment and Aggregation Strategy
 https://tools.ietf.org/html/rfc1519 
 
@@ -9,5 +12,14 @@ https://tools.ietf.org/html/rfc2119
 JWT standard 
 https://tools.ietf.org/html/rfc7519
 
+
+Federated File Systems - (SMB or NFS) 
+https://tools.ietf.org/html/rfc5716
+
+
+###April Fools RFCs### 
+
 RITA -- The Reliable Internetwork Troubleshooting Agent
 https://tools.ietf.org/html/rfc2321
+
+
