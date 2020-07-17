@@ -9,5 +9,5 @@ Material I consider useful
 What is it: https://en.wikipedia.org/wiki/Jargon_File
 The file itself: http://www.catb.org/jargon/html/
 
-### lawtechie provides a look behind the scenes 
+### Lawtechie provides a look behind the scenes 
   https://www.reddit.com/user/lawtechie/posts/
